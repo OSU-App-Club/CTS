@@ -12,7 +12,7 @@ Pod::Spec.new do |s|
   s.author           = { "cvanderschuere" => "cdvconcepts@gmail.com" }
   s.source           = { 
                           :git => 'https://github.com/osu-app-club/CTS.git', 
-                          :tag => 'v0.1' 
+                          :tag => '0.1.0' 
                         }
   # s.social_media_url = 'https://twitter.com/NAME'
 
