@@ -1,0 +1,2 @@
+PODS_CTS_HEADER_SEARCH_PATHS = $(SDKROOT)/usr/include/libxml2
+PODS_CTS_OTHER_LDFLAGS = -framework CoreLocation
