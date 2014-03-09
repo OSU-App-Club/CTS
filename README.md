@@ -1,7 +1,7 @@
 # cts
 
-[![Version](http://cocoapod-badges.herokuapp.com/v/cts/badge.png)](http://cocoadocs.org/docsets/cts)
-[![Platform](http://cocoapod-badges.herokuapp.com/p/cts/badge.png)](http://cocoadocs.org/docsets/cts)
+[![Version](http://cocoapod-badges.herokuapp.com/v/CTS/badge.png)](http://cocoadocs.org/docsets/cts)
+[![Platform](http://cocoapod-badges.herokuapp.com/p/CTS/badge.png)](http://cocoadocs.org/docsets/cts)
 
 ## Usage
 
@@ -11,10 +11,10 @@ To run the example project; clone the repo, and run `pod install` from the Examp
 
 ## Installation
 
-cts is available through [CocoaPods](http://cocoapods.org), to install
+CTS is available through [CocoaPods](http://cocoapods.org), to install
 it simply add the following line to your Podfile:
 
-    pod "cts"
+    pod "CTS"
 
 ## Author
 
@@ -22,5 +22,5 @@ cvanderschuere, cdvconcepts@gmail.com
 
 ## License
 
-cts is available under the MIT license. See the LICENSE file for more info.
+CTS is available under the MIT license. See the LICENSE file for more info.
 
